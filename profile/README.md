@@ -1,8 +1,9 @@
-<p align="center">
-    <img src="images/logo.png" width=138>
-</p>
-<h1 align="center">Fultonium Entertainment</h1>
-<p align="center"><strong>We are <em>the</em> people, we are Fultonium, we are an aspect of creativity.</strong></p> &#8287;
+<div align="center">
+    <img src="images/fultonium.png" width=811>
+</div>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=750&width=811&lines=We+are+the+people.;We+are+Fultonium.;We+are+an+aspect+of+creativity." alt="Typing SVG" />
+</div>
 <div align="center">
     <img src="images/banner.png">
 </div>
