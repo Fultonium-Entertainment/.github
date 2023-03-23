@@ -2,3 +2,9 @@
 <img src="https://raw.githubusercontent.com/Fultonium-Entertainment/.github/main/profile/images/banner.png">
 
 > *Hi, Internet user, welcome to our GitHub page.*
+
+___
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Fultonium-Entertainment/.github/main/profile/images/fultonium.png" width=500>
+</div>
